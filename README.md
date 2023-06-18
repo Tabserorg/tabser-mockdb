@@ -3,7 +3,9 @@ Tabser mockdb is a tool to generate a database with mock database for developmen
 
 ## Supported Databases
 ◻️ sqlite
+
 ◻️ mongodb
+
 ◻️ postgresql
 
 ## Repo Owner
